@@ -5,4 +5,5 @@ This repositery contain, a script for simple cryptography system :
 * Subtitution
 * Vigenere
 * RSA
+* SPN
 
